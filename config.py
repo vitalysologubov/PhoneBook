@@ -1,0 +1,4 @@
+LOG_FILE_NAME = "logs.log"
+PHONE_BOOK_JSON_FILE_NAME = "phonebook.json"
+PHONE_BOOK_JSON_FILE_NAME_TEST = "test_phonebook.json"
+NUMBER_OF_ENTRIES_PER_PAGE = 5
